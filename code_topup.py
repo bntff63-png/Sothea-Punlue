@@ -23,8 +23,8 @@ from aiogram.enums import ParseMode
 # =====================================================================
 # [ កំណត់រចនាសម្ព័ន្ធទូទៅ ]
 # =====================================================================
-BOT_TOKEN = "8316333314:AAGNfkbnyQy5AZOBAmzQL6REbkZBPrNjm5M"
-ADMIN_ID = 7708363434
+BOT_TOKEN = "9177464928:AAEL3ZIXaKq8JwbMYrYA4UuK9jiHRIukNSk"
+ADMIN_ID = 8371081776
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
