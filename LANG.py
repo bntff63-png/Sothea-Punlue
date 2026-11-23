@@ -38,7 +38,7 @@ from aiogram.enums import ParseMode
 # [ កំណត់រចនាសម្ព័ន្ធទូទៅ ]
 # ====================================================================================================
 
-BOT_TOKEN = ""
+BOT_TOKEN = "8966231034:AAH_UeFadbi9TWFU2WD6TcpBjpnI8iQ6fEs"
 OWNER_ID = 8371081776
 MAIN_BOT_ID = int(BOT_TOKEN.split(':')[0])
 
