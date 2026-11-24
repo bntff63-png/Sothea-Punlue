@@ -38,8 +38,9 @@ from aiogram.enums import ParseMode
 # [ កំណត់រចនាសម្ព័ន្ធទូទៅ ]
 # ====================================================================================================
 
-BOT_TOKEN = "8841614257:AAGoDFXqRRnTP8D6c47qH1dtBWocmxu1CUI"
-OWNER_ID = 7708363434
+BOT_TOKEN = "9079093025:AAH2VyR0LdGS4SWrLVG_fuU6ujy1ZpZUWps
+"
+OWNER_ID = 8371081776
 MAIN_BOT_ID = int(BOT_TOKEN.split(':')[0])
 
 # 🚀 ABA API URL (https://khmer-system.com)
