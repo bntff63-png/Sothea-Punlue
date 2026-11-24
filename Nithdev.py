@@ -101,8 +101,7 @@ from aiogram.exceptions import (
 # ====================================================================================================
 
 # 👉 ដាក់ Token ត្រង់នេះ (ឬដាក់ក្នុង Environment Variable ឈ្មោះ BOT_TOKEN / KHQR_API_KEY)
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip() or "9079093025:AAH2VyR0LdGS4SWrLVG_fuU6ujy1ZpZUWps
-"
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip() or "9079093025:AAH2VyR0LdGS4SWrLVG_fuU6ujy1ZpZUWps"
 OWNER_ID  = 8371081776
 
 KHQR_API_KEY    = os.getenv("KHQR_API_KEY", "").strip() or "sk_98c99cdfff01a78707b83590dd181d709c04869a721ce304"
